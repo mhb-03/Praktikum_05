@@ -9,3 +9,4 @@ def bubble_sort(array_data):
 data = [81,94,39,93,67,28,11]
 print(bubble_sort(data))
 print(len(data))
+print("cara pull req")
